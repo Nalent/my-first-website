@@ -1,0 +1,27 @@
+body {
+  background-color: #F5F5DC;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: blue;
+}
+
+h3 {
+  color: green;
+}
+
+p {
+  color: black;
+}
+
+ul {
+  color: brown;
+}
+
+a {
+  color: red;
+}
